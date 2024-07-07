@@ -3,7 +3,7 @@
 This is an IRC bot that takes queries and shows data from Metal Archives, the
 de-facto master source on everything heavy metal related.
 
-Join `#metal` on `irc.libera.chat` to use it.
+Join `#metal` on `irc.rizon.net` to use it.
 
 ## Data queries
 
